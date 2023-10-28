@@ -15,21 +15,19 @@
 
 <h2> :star2: Path Planning Robot </h2>
 <ul>
-  <li> Here you can find the <a href="link">PPT</a> of the project.</li>
-  <li> Here you can find the <a href="link">Source Code</a> of the project.</li>
-  <li> Here you can find the <a href="link">Webot World File</a>.</li>
+  <li> Here you can find the <a href="liink">PPT</a> of the project.</li>
+  <li> Here you can find the <a href="liink">Source Code</a> of the project.</li>
+  <li> Here you can find the <a href="liiiink">Webot World File</a>.</li>
 </ul>
 <h2> :star2: Contributors </h2>
   <ul>
   <li>Team Members 
     <ul>
-      <li><a href="https://github.com/dhanrajchaurasia">Dhanraj Chaurasia</a></li>
-      <li><a href="#">Shaurya Raj Srivastava</a></li>
+      <li>Ankur Bhadauria</a></li>
+      <li><a href="#">Abhijeet Singh</a></li>
     </ul>
   </li>  
-  <li> Mentor
-  <ul>
-    <li><a href="https://github.com/rdx-rockstar">Karimulla Mohammad</a></li>
+
   </ul>
    </li>
  </ul>
